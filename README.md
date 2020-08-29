@@ -3,17 +3,17 @@
 [![hackmd-github-sync-badge](https://hackmd.io/izWotahaQiOyDbrZhpdwdg/badge)](https://hackmd.io/izWotahaQiOyDbrZhpdwdg)
 
 #### [Github](https://github.com/y-s-liu/machine-learning-tutorial)&nbsp;&nbsp;|&nbsp;&nbsp;[Cololab](https://github.com/microsoft/vscode-cpptools/issues)
-[![Badge](https://aka.ms/vsls-badge)](https://aka.ms/vsls)
 
 配合課程說明，以 Jupyter notebook 的方式整理出來的實作。
 
 ## 一、監督式學習
 
-### 1.1. 分類問題
+### 1.1. 回歸問題
 
-### 1.2. 回歸問題
 
-### 1.3. 應用範例
+### 1.2. 分類問題
+
+### 1.3. 應用範例 - 分多類問題
 
 ## 參考書籍
 
