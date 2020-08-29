@@ -4,7 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/y-s-liu/machine-learning-tutorial/blob/master/)
 
 
-#### [Github](https://github.com/y-s-liu/machine-learning-tutorial)
+#### [Github](https://github.com/y-s-liu/machine-learning-tutorial)&nbsp;&nbsp;|&nbsp;&nbsp;[Cololab](https://github.com/microsoft/vscode-cpptools/issues)
 
 配合課程說明，以 Jupyter notebook 的方式整理出來的實作。
 
