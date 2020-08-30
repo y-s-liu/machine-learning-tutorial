@@ -1,17 +1,14 @@
-# 機器學習的實作教學
+# [機器學習的實作教學](https://github.com/y-s-liu/machine-learning-tutorial)
 
 [![hackmd-github-sync-badge](https://hackmd.io/izWotahaQiOyDbrZhpdwdg/badge)](https://hackmd.io/izWotahaQiOyDbrZhpdwdg)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/y-s-liu/machine-learning-tutorial/blob/master/)
 
-
-#### [Github](https://github.com/y-s-liu/machine-learning-tutorial)&nbsp;&nbsp;|&nbsp;&nbsp;[Cololab](https://github.com/microsoft/vscode-cpptools/issues)
 
 配合課程說明，以 Jupyter notebook 的方式整理出來的實作。
 
 ## 一、監督式學習
 
 ### 1.1. 回歸問題
-
 
 ### 1.2. 分類問題
 
