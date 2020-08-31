@@ -14,7 +14,11 @@
 ### 1.2. [分類問題](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/class1.2_classification.ipynb)
 使用 iris 資料集，要從versicolor與virginica中，以花瓣長度與花瓣寬度來分類。
 
-### 1.3. 應用範例 - 分多類問題
+### 1.3. [專案實作一、房地產投資決策](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/class1.3_ML_project_1.ipynb)
+使用加州人口普查資料來建立該州的房價模型，預測加州任一區的房價中位數。
+
+### 1.4. [專案實作二、手寫數字辨識](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/class1.4_ML_project_2.ipynb)
+使用美國高中生和人口普查局員工手寫的數字圖片來建立數字分類模型，預測手寫數字圖片的數字為何。
 
 ## 主要參考書籍
 
