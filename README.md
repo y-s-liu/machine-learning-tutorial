@@ -20,6 +20,11 @@
 ### 1.4. [專案實作二、手寫數字辨識](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/class1.4_ML_project_2.ipynb)
 使用美國高中生和人口普查局員工手寫的數字圖片來建立數字分類模型，預測手寫數字圖片的數字為何。
 
+### 1.5. [套件實作、pycaret](https://github.com/y-s-liu/pycaret.md)
+* [PyCaret](https://pycaret.org/)是一個以少量程式碼並在短時間內執行多個機器學習任務的的Python程式庫。
+* 可執行的機器學習任務包含分類(classification)、迴歸(regression)、分群(clustering)、異常偵測(anomaly detection)、自然語言處理(natural language processing)、關聯規則學習(association rule mining)
+* 在幾分鐘之內完成從準備資料到部署模型。
+
 ## 主要參考書籍
 
 1. [I. Goodfellow, Y. Bengio and A. Courville, Deep Learning, The MIT Press, MIT, MA, 2016.](https://www.tenlong.com.tw/products/9789865021924?list_name=trs-t)[[Web](https://www.deeplearningbook.org/)]
