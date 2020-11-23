@@ -24,7 +24,7 @@
         * 模型運用(model deployment)
             * 最終模型(finalize model)
             * 模型預測(predict model)
-            * 模型部署至AWS(deploy model)
+            * 模型部署至雲端(deploy model)
             * 模型保存(save model)
             * 實驗保存(save experiment)
     * [迴歸問題](https://github.com/pycaret/pycaret/blob/master/tutorials/Regression%20Tutorial%20Level%20Beginner%20-%20REG101.ipynb)
