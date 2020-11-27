@@ -1,11 +1,11 @@
 # 1.5. 套件實作、pycaret
-<br>
+
     * 課程教學範例(中文)
         * [二元分類教學（CLF101）- 初級 - 台灣信用卡客戶違約支付預測](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/PyCaretT_Binary_Classification_Tutorial_Level_Beginner_CLF101.ipynb)
         * [二元分類實例 - CNC機台銑刀磨損偵測](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/PyCaretT_CNC_Mill_Tool_Wear_Detection_Train_Test.ipynb)
-<br>
+
     * 在幾分鐘之內完成從準備資料到部署模型。
-       * [執行步驟](https://pycaret.org/get-data/)
+        * [執行步驟](https://pycaret.org/get-data/)
            * 初始化(initialize)
                * 獲取分析資料(getting data)
                * 建構實驗環境(setting up environment)
