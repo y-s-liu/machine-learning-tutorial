@@ -2,6 +2,9 @@
 * [PyCaret](https://pycaret.org/)是一個以少量程式碼並在短時間內執行多個機器學習任務的的Python程式庫。
 * 可執行的機器學習任務包含分類(classification)、迴歸(regression)、分群(clustering)、異常偵測(anomaly detection)、自然語言處理(natural language processing)、關聯規則學習(association rule mining)
 * 在幾分鐘之內完成從準備資料到部署模型。
+    * 中文教學範例
+        * [二元分類教學（CLF101）- 初級 - 台灣信用卡客戶違約支付預測](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/PyCaretT_Binary_Classification_Tutorial_Level_Beginner_CLF101.ipynb)
+        * [二元分類實例 - CNC機台銑刀磨損偵測](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/PyCaretT_CNC_Mill_Tool_Wear_Detection_Train_Test.ipynb)
 
     * [執行步驟](https://pycaret.org/get-data/)
         * 初始化(initialize)
@@ -27,6 +30,7 @@
             * 模型部署至公有雲(deploy model)
             * 模型保存(save model)
             * 實驗保存(save experiment)
+
     * [迴歸問題](https://github.com/pycaret/pycaret/blob/master/tutorials/Regression%20Tutorial%20Level%20Beginner%20-%20REG101.ipynb)
         * 初始化
             * 獲取分析資料：使用pandas函式庫讀取檔案，也可從PyCaret資料集導入資料。
