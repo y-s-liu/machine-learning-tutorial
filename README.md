@@ -21,9 +21,11 @@
 使用美國高中生和人口普查局員工手寫的數字圖片來建立數字分類模型，預測手寫數字圖片的數字為何。
 
 ### 1.5. [套件實作、pycaret](https://github.com/y-s-liu/machine-learning-tutorial/blob/master/pycaret.md)
-* [PyCaret](https://pycaret.org/)是一個以少量程式碼並在短時間內執行多個機器學習任務的的Python程式庫。
-* 可執行的機器學習任務包含分類(classification)、迴歸(regression)、分群(clustering)、異常偵測(anomaly detection)、自然語言處理(natural language processing)、關聯規則學習(association rule mining)
-* 在幾分鐘之內完成從準備資料到部署模型。
+* [PyCaret](https://pycaret.org/)是一個以少量程式碼並在短時間內執行多個機器學習任務的的Python開放原始碼函式庫，可自動執行機器學習工作流程，可以加快實驗週期，使工作效率更高。可在幾分鐘之內完成從準備資料、訓練模型到模型部署。
+
+* 圍繞著幾個機器學習函式庫和框架，例如scikit-learn，XGBoost，LightGBM，CatBoost，spaCy，Optuna，Hyperopt，Ray等。可執行的機器學習任務包含分類(classification)、迴歸(regression)、分群(clustering)、異常偵測(anomaly detection)、自然語言處理(natural language processing)、關聯規則學習(association rule mining)
+
+* PyCaret的設計和簡潔性受到了公民數據科學家(Citizen data scientist)概念的啟發，最初是由[Gartner](https://www.ithome.com.tw/news/127217)使用的一個術語。因為，經驗豐富的數據科學家通常很難找到，而且聘用成本昂貴，但是公民數據科學家可以有效地緩解這種差距，並解決業務環境中與資料分析相關的挑戰。
 
 ## 主要參考書籍
 
